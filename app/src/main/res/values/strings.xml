@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TestsApplication</string>
+    <string name="app_name">RemindMe</string>
+    <string name="search_file">Search</string>
 </resources>
